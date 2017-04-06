@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land-mdpi-v4\\tray_handle_normal.png",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\drawable-land-mdpi-v4\\tray_handle_normal.png"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land-mdpi-v4\\tray_handle_pressed.png",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\drawable-land-mdpi-v4\\tray_handle_pressed.png"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land-mdpi-v4\\tray_line_pressed.png",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\drawable-land-mdpi-v4\\tray_line_pressed.png"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land-mdpi-v4\\drag.png",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\drawable-land-mdpi-v4\\drag.png"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land-mdpi-v4\\tray_handle_selected.png",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\drawable-land-mdpi-v4\\tray_handle_selected.png"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land-mdpi-v4\\tray_line_normal.png",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\drawable-land-mdpi-v4\\tray_line_normal.png"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land-mdpi-v4\\gradient_reflect.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\drawable-land-mdpi-v4\\gradient_reflect.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land-mdpi-v4\\tray_line_selected.png",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\drawable-land-mdpi-v4\\tray_line_selected.png"
+    }
+]

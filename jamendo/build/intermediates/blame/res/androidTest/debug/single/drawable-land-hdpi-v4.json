@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land-hdpi-v4\\tray_handle_selected.png",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\drawable-land-hdpi-v4\\tray_handle_selected.png"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land-hdpi-v4\\drag.png",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\drawable-land-hdpi-v4\\drag.png"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land-hdpi-v4\\tray_handle_normal.png",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\drawable-land-hdpi-v4\\tray_handle_normal.png"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land-hdpi-v4\\tray_handle_pressed.png",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\drawable-land-hdpi-v4\\tray_handle_pressed.png"
+    }
+]

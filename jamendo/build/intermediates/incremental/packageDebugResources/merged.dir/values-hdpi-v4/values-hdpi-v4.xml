@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="album_size">195px</dimen>
+    <dimen name="icon_size">72px</dimen>
+    <dimen name="tab_size">48px</dimen>
+    <string name="better_res">1.500.jpg</string>
+</resources>

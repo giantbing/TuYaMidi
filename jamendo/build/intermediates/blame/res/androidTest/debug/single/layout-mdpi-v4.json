@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\settings.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\settings.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\search.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\search.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\add_to_playlist.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\add_to_playlist.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\review_row.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\review_row.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\album_row.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\album_row.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\playlist_row.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\playlist_row.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\list_header.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\list_header.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\download_row.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\download_row.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\purple_row.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\purple_row.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\album.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\album.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\album_bar.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\album_bar.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\artist.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\artist.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\lyrics.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\lyrics.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\starredalbums.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\starredalbums.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\browse_playlist.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\browse_playlist.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\download.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\download.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\failure_bar.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\failure_bar.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\about.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\about.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\progress_bar.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\progress_bar.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\main.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\main.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\track_row.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\track_row.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-mdpi-v4\\playlist.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\layout-mdpi-v4\\playlist.xml"
+    }
+]

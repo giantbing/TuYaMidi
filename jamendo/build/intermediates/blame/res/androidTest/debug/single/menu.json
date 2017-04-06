@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\playlist.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\menu\\playlist.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\home.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\album.xml",
+        "source": "J:\\TuYaMidi\\jamendo\\build\\intermediates\\bundles\\debug\\res\\menu\\album.xml"
+    }
+]
